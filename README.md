@@ -22,10 +22,10 @@ Los documentos asociados a la ejecución de esta ayudantía son:
 
 | Archivo | Descripción |
 | :--- | :--- |
-| [AYUD01-Guia Ejercicio](https://github.com/IEE2463-SEP/AYUD01-Memoria/blob/main/AYUD01_ENTITY_ARCHITECTURE.pdf) | Guía de ejercicios asociado a la ayudantía. |
-| [Code_Example0.vhd](https://github.com/IEE2463-SEP/AYUD01-Memoria/blob/main/RAM.vhd) | El cual contiene el código VHDL utilizado en la ayudantía |
-| [Zybo-Z7_Master.xdc](https://github.com/IEE2463-SEP/AYUD01-Memoria/blob/main/Zybo-Z7-Master.xdc) | El cual contiene los constrains de nuestra tarjeta (mapeo de pines) |
-| [AYDU01_VIVADO_Projecy.zip](https://github.com/IEE2463-SEP/AYUD01-Memoria/blob/main/AY01-RAM.zip) | Contine el projecto en vivado desarrollado en el laboratorio |
+| [AYUD01-Guia Ejercicio](https://github.com/IEE2463-SEP/AYUD01-Memoria/blob/HEAD/AYUD01_ENTITY_ARCHITECTURE.pdf) | Guía de ejercicios asociado a la ayudantía. |
+| [Code_Example0.vhd](https://github.com/IEE2463-SEP/AYUD01-Memoria/blob/HEAD/RAM.vhd) | El cual contiene el código VHDL utilizado en la ayudantía |
+| [Zybo-Z7_Master.xdc](https://github.com/IEE2463-SEP/AYUD01-Memoria/blob/HEAD/Zybo-Z7-Master.xdc) | El cual contiene los constrains de nuestra tarjeta (mapeo de pines) |
+| [AYDU01_VIVADO_Projecy.zip](https://github.com/IEE2463-SEP/AYUD01-Memoria/blob/HEAD/AY01-RAM.zip) | Contine el projecto en vivado desarrollado en el laboratorio |
 
 ---
 
